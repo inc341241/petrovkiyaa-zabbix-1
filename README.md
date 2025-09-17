@@ -108,7 +108,7 @@ echo "ServerName localhost" | sudo tee -a /etc/apache2/apache2.conf
 systemctl restart apache2 zabbix-server
 ```
 
-+<img src = "img/1.jpg" width = 100%>
++ <img src = "img/1.jpg" width = 100%>
 
 
 ## Задание 2
@@ -184,28 +184,28 @@ sed -i "s/Hostname=Zabbix agent/Hostname=$(hostname)/" /etc/zabbix/zabbix_agentd
 systemctl restart zabbix-agent
 ```
 
-+<img src = "img/2.jpg" width = 100%>
++ <img src = "img/2.jpg" width = 100%>
 
-+<img src = "img/3.jpg" width = 100%>
++ <img src = "img/3.jpg" width = 100%>
 
-+<img src = "img/4.jpg" width = 100%>
++ <img src = "img/4.jpg" width = 100%>
 
-+<img src = "img/5.jpg" width = 100%>
++ <img src = "img/5.jpg" width = 100%>
 
-+<img src = "img/6.jpg" width = 100%>
++ <img src = "img/6.jpg" width = 100%>
 
-+<img src = "img/7.jpg" width = 100%>
++ <img src = "img/7.jpg" width = 100%>
 
-+<img src = "img/8.jpg" width = 100%>
++ <img src = "img/8.jpg" width = 100%>
 
-+<img src = "img/9.jpg" width = 100%>
++ <img src = "img/9.jpg" width = 100%>
 
-+<img src = "img/10.jpg" width = 100%>
++ <img src = "img/10.jpg" width = 100%>
 
-+<img src = "img/11.jpg" width = 100%>
++ <img src = "img/11.jpg" width = 100%>
 
-+<img src = "img/12.jpg" width = 100%>
++ <img src = "img/12.jpg" width = 100%>
 
-+<img src = "img/13.jpg" width = 100%>
++ <img src = "img/13.jpg" width = 100%>
 
-+<img src = "img/14.jpg" width = 100%>
++ <img src = "img/14.jpg" width = 100%>
